@@ -11,7 +11,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1DnkUFLa3BgzQgu3QLOBbMl2i6Afe58mL
+View your app : https://6928549a2eed5b5dbab8b588--iridescent-cocada-a72e0e.netlify.app/
 
 ## Run Locally
 
